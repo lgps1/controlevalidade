@@ -5,14 +5,9 @@ root {
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #3a4f54;
-    background-color: #dfecf1;
-    font-size: large;
-}
-
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #3a4f54;
-    background-color: #dfecf1;
+    background: url(../../Images/SSObackground.png);
+    background-size: 100%;
+    background-color: #ffffff;
     font-size: small;
 }
 
